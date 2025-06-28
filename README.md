@@ -1,18 +1,49 @@
-# 🌗 Light/Dark Mode Toggle App (React)
+# 📝 Random Quote Generator (React)
 
-A simple React project that lets users toggle between light and dark themes using a button. Includes smooth transition effects and emoji icons (🌞 / 🌙) to indicate the current mode.
+This is a simple React app that displays a random inspirational quote every time you click the "Get Quote" button.
+
+---
 
 ## 🚀 Features
 
-- Toggle between light and dark modes
-- Responsive and minimal UI
-- Smooth CSS transitions
-- Emoji icons for visual cue 🌞 / 🌙
+- 🎲 Random quote display from a local quote list
+- 🎯 React functional components with `useState` and `useEffect`
+- ✨ Clean and simple UI
 
-## 📦 How to Run Locally
+---
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/theme-toggle-react.git
-   cd theme-toggle-react
-   ```
+## 🛠 Tech Stack
+
+- React.js
+- JavaScript
+- CSS
+
+---
+
+## 📂 How to Run Locally
+
+1. Clone the repository  
+   `git clone https://github.com/YOUR_USERNAME/quote-generator.git`
+
+2. Navigate to the folder  
+   `cd quote-generator`
+
+3. Install dependencies  
+   `npm install`
+
+4. Start the app  
+   `npm start`  
+   App will run at `http://localhost:3000`
+
+---
+
+## 👨‍💻 Author
+
+- **Yash Pardeshi**
+- GitHub: [@YashPardeshix](https://github.com/YashPardeshix)
+
+---
+
+## 📌 Status
+
+This project is complete and working perfectly
